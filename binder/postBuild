@@ -1,2 +1,3 @@
 source activate metsim_whw
 python -m ipykernel install --user --name metsim_whw
+jupyter labextension install @pyviz/jupyterlab_pyviz
