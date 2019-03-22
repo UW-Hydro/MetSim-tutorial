@@ -1,0 +1,2 @@
+source activate metsim_whw
+python -m ipykernel install --user --name metsim_whw
