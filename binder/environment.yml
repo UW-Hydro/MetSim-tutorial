@@ -1,0 +1,21 @@
+name: metsim_whw
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - xarray=0.10.9
+  - pandas
+  - netcdf4>=1.2.5
+  - numba
+  - numpy>=1.11.2
+  - scipy>=0.18.1
+  - dask
+  - distributed
+  - toolz
+  - dask-jobqueue
+  - geopandas
+  - holoviews
+  - cartopy
+  - metsim
+  - jupyter
+  - geoviews
