@@ -22,3 +22,4 @@ dependencies:
   - jupyter
   - geoviews
   - pyviz_comms 
+  - shapely<1.8.0
